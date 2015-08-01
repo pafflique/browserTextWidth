@@ -1,0 +1,27 @@
+{
+  "name": "TextWidth",
+  "version": "0.0.1",
+  "authors": [
+    "Pavel <pavels.staseluns@gmail.com>"
+  ],
+  "description": "A small lib to determine text width in browser",
+  "main": "main",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "text",
+    "width"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jasmine-core": "~2.3.4"
+  }
+}
